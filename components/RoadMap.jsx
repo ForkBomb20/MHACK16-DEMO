@@ -1,11 +1,10 @@
 import React, {useState} from 'react';
-import { useLocation } from 'react-router-dom';
+import { useLocation, Link } from 'react-router-dom';
 
 // Import components
 import Node from './Node';
 import Page from './Page';
 // import Box from '@mui/material/Box';
-
 
 // Import css
 import './RoadMap.css';
@@ -22,6 +21,7 @@ const RoadMap = () => {
         <div className='container'>
             {/* <Box marginTop={20}> */}
             <div className='roadmap-container'>
+                <Link to={'/'} id='link'>EduApi</Link>
                 <div id='title'>Your roadmap</div>
                 <div className='list-container'>
                     {data.lessonPlans.map((lesson) => {

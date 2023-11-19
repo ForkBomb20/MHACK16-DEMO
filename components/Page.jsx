@@ -2,10 +2,10 @@ import React from 'react';
 
 const Page = ({ lessonPlan }) => {
   return (
-    <div style={{ marginTop: '20px', marginLeft: '180px' }}>
+    <div id='page-overhead' style={{ marginTop: '20px', marginLeft: '180px' }}>
       <h2 style={{ textAlign: 'center' }}>{lessonPlan.title}</h2>
       <hr />
-      <p style={{ textAlign: 'justify' }}>{lessonPlan.content}</p>
+      <p style={{ textAlign: 'center' }}>{lessonPlan.content}</p>
       <hr />
       <h3>Steps:</h3>
       <ol style={{ listStyleType: 'none', paddingLeft: '0', textAlign: 'left'}}>
