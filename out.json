@@ -1,0 +1,193 @@
+{
+  "topic": "Bike Riding",
+  "lessonPlans": [
+    {
+      "title": "Understanding the Basics of a Bike",
+      "content": "Introduction to the parts of the bike, their role and function",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "description": "Identify and learn the function of the different parts of the bike",
+          "resources": [
+            "The Complete Bike Owner's Manual",
+            "Bicycle Maintenance 101 book"
+          ],
+          "tools":[
+            "Bicycle model"
+          ]
+        },
+        {
+          "stepNumber": 2,
+          "description": "Understand how to operate each part of the bike",
+          "resources": [
+            "Bike Operation Guide",
+            "Riding Basics Tutorial"
+          ],
+          "tools":[
+            "Stationary bike trainer"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "description": "Identify the parts of a bike, their roles, and how they operate",
+          "searchTerms": [
+            "Bike parts", 
+            "Bike operation"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Safety Precautions in Bike Riding",
+      "content": "Understanding the necessary safety measures and protocols involved in bike riding",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "description": "Learn about the significance of helmets and protective gear",
+          "resources": [
+            "Bike Safety Pro Tips",
+            "Protective Gear User Manuals"
+          ],
+          "tools":[
+            "Bike helmet", 
+            "Elbow pads", 
+            "Knee pads"
+          ]
+        },
+        {
+          "stepNumber": 2,
+          "description": "Understand different road signs and their importance",
+          "resources": [
+            "Road Sign Handbooks", 
+            "Bike Signals Guide"
+          ],
+          "tools":[
+            "Flashcards of Road Signs"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "description": "Identify different road signs and properly fit your helmet and protective gear",
+          "searchTerms": [
+            "Road sign identification", 
+            "Helmet fitting"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Basic Riding Skills",
+      "content": "Developing foundational skills necessary for bike riding",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "description": "Learn to balance on the bike",
+          "resources": [
+            "Balance Training Guide", 
+            "Bike Balancing Techniques"
+          ],
+          "tools":[
+            "Bicycle"
+          ]
+        },
+        {
+          "stepNumber": 2,
+          "description": "Practice pedalling and steering",
+          "resources": [
+            "Pedalling Techniques Tutorial",
+            "Steering Skills Development"
+          ],
+          "tools":[
+            "Bicycle"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "description": "Balance on the bike without pedalling, and then pedal on a flat surface",
+          "searchTerms": [
+            "Bike balancing", 
+            "Pedalling technique"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Advanced Riding Skills",
+      "content": "Improving and mastering bike handling and control",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "description": "Learn to navigate corners and turns",
+          "resources": [
+            "Cornering on a Bike Guide", 
+            "Bike Turning Techniques"
+          ],
+          "tools":[
+            "Bicycle"
+          ]
+        },
+        {
+          "stepNumber": 2,
+          "description": "Practice riding up and down hills",
+          "resources": [
+            "Climbing and Descending on a Bike", 
+            "Hill Riding Techniques"
+          ],
+          "tools":[
+            "Bicycle"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "description": "Ride through a course with lots of turns and also ride on hilly terrain",
+          "searchTerms": [
+            "Cornering technique", 
+            "Hill riding"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Maintenance and Troubleshooting",
+      "content": "Understanding how to care for, maintain, and troubleshoot issues on a bike",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "description": "Learn to inspect your bike regularly and perform basic maintenance tasks",
+          "resources": [
+            "DIY Bike Maintenance", 
+            "Bike Troubleshooting and Care"
+          ],
+          "tools":[
+            "Bike Cleaning Kit", 
+            "Bike Tool Set"
+          ]
+        },
+        {
+          "stepNumber": 2,
+          "description": "Understand how to troubleshoot common bike issues",
+          "resources": [
+            "Bike Repair Guide", 
+            "Common Bike Issues and Solutions"
+          ],
+          "tools":[
+            "Bike Tool Set"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "description": "Inspect your bike, perform a simple maintenance task, and troubleshoot a minor issue",
+          "searchTerms": [
+            "Bike maintenance", 
+            "Bike troubleshooting"
+          ]
+        }
+      ]
+    }
+  ]
+}
